@@ -1,0 +1,15 @@
+1.install java from san system
+download the jdk from the oracle web site
+oracle tar file
+cmd--- tar xvf filename.tar
+ls -a --- this
+nano .bashrc --- edit the this file for the env varible
+ 
+install the ssh for communicate to the files with passwordless the
+
+configure the ssh without supplying the password we can access them    m
+keygen means keygeneration 
+
+
+
+
